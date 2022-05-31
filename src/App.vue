@@ -3,6 +3,7 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
+      <!-- 在app中加了一个注释 -->
     </nav>
     <router-view/>
   </div>
