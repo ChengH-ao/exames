@@ -24,6 +24,6 @@ npm run test:unit
 ```
 npm run lint
 ```
-
+<!-- 这是Git中拉去后要走的 启动流程 -->
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
